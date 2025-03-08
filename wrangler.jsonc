@@ -1,0 +1,6 @@
+{
+  "name": "cfpages1",
+  "main": ".output/server/index.mjs",
+  "compatibility_date": "2025-03-08",
+  "workers_dev": false
+}
